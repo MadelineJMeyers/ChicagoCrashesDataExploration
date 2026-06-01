@@ -1,5 +1,5 @@
 # Chicago Crashes Data Exploration
-An exploration into the Chicago Crashes dataset.
+An exploration into the Chicago Crashes dataset at [this link](https://catalog.data.gov/dataset/traffic-crashes-crashes).
 
 This repo will hold my thought processes as well as the code to replicate my findings from this data.
 
